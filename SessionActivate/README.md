@@ -22,4 +22,3 @@ X-XFCE-Autostart-Override=true
 ```bash
 chmod +x /полный/путь/к/start_session.sh
 ```
-```
