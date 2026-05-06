@@ -7,6 +7,7 @@ firefox &
 sleep 3
 
 # Переходим к окну 2
+sleep 3
 xdotool key ctrl+alt+2
 
 ./Telegram &
